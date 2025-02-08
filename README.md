@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **mitraayushi2020@gmail.com**
 
-- 📄 Know about my experiences [https://emerald-gnni-25.tiiny.site](https://emerald-gnni-25.tiiny.site)
+- 📄 Know about my experiences [https://emerald-amabel-81.tiiny.site](https://emerald-amabel-81.tiiny.site)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
