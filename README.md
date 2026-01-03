@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ayushi Mitra</h1>
 <h3 align="center">An aspiring software engineer from India</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushi-mitra&label=Profile%20views&color=0e75b6&style=flat" alt="ayushi-mitra" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushi-mitra" alt="ayushi-mitra" /></a> </p>
 - 🌱 I’m currently learning **ML and C**
 
 - 📫 How to reach me **mitraayushi2020@gmail.com**
