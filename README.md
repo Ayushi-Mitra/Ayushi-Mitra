@@ -1,27 +1,113 @@
-<h1 align="center">Hi 👋, I'm Ayushi Mitra</h1>
-<h3 align="center">An aspiring AI/ML engineer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushi-mitra&label=Profile%20views&color=0e75b6&style=flat" alt="ayushi-mitra" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=120&section=header&text=Ayushi%20Mitra&fontSize=36&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushi-mitra" alt="ayushi-mitra" /></a> </p>
+### 🤖 ML & Data Science · B.Tech CSE @ Heritage Institute of Technology, Kolkata
 
-- 🌱 I’m currently learning **ML and C**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushi-mitra)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mitraayushi2020@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayushi-Mitra)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ayushimitra15)
 
-- 📫 How to reach me **mitraayushi2020@gmail.com**
+</div>
 
-- 📄 Know about my experiences [https://peach-carlina-14.tiiny.site](https://peach-carlina-14.tiiny.site)
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/ayushi mitra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ayushi mitra" height="30" width="40" /></a>
-<a href="https://twitter.com/ayushimitr88299" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayushimitr88299" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ayushi-mitra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayushi-mitra" height="30" width="40" /></a>
-<a href="https://kaggle.com/ayushimitra15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ayushimitra15" height="30" width="40" /></a>
-<a href="https://fb.com/made_in_the_am15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="made_in_the_am15" height="30" width="40" /></a>
-<a href="https://instagram.com/made_in_the_am15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="made_in_the_am15" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mitraayushi2020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mitraayushi2020" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ayushi_mitra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayushi_mitra" height="30" width="40" /></a>
-</p>
+## 👋 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+I'm a **B.Tech CSE student** at Heritage Institute of Technology, Kolkata (CGPA: 9.68), working at the intersection of machine learning, deep learning, and real-world data problems. My long-term goals lie in advancing research and innovation at the intersection of AI, machine learning, and healthcare — building systems that make clinical decision-making more accurate, accessible, and equitable. My current work spans academic research at IIT Kharagpur and ISI Kolkata, applied ML virtual internships, and building AI-powered products under hackathon conditions.
+
+- 🔬 Currently researching **deep learning for Cyber-Physical Systems security** at IIT Kharagpur
+- 🧪 Past research at **Indian Statistical Institute** on ML liver cirrhosis prediction under noise and class imbalance
+- 🏆 Participant in **StatusCode2 2025**, **Diversion 2k25** & **HACK IITK 2**
+- 💬 Ask me about **ML & DL pipelines, ensemble methods and time-series modelling**
+- 📍 Based in **Kolkata, West Bengal, India**
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+**AI / ML**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+
+**Frameworks & Tools**
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+
+---
+
+## Featured Projects
+
+### [Spring Internship 2026 — ISI Kolkata](https://github.com/Ayushi-Mitra/Spring_Internship_2026) — *Liver Cirrhosis prediction Under Noisy and Outlier-rich conditions*
+
+Research at IDEAS-TIH, Indian Statistical Institute: benchmarked 16 models on liver cirrhosis clinical data, studying the effect of GMM noise augmentation and class imbalance on ensemble performance. Random Forest achieved F1=0.78 on noisy data — a +0.22 gain over the clean baseline.
+
+`XGBoost` `Random Forest` `SMOTE` `Ensemble Methods` `Clinical ML`
+
+---
+
+### [Valecta](https://github.com/Ayushi-Mitra/Valecta-StatusCode2) — *AI-Driven Hiring Platform*
+> Built at **StatusCode2 (IIIT Kalyani @ IISER Kolkata)** — a 24-hour MLH hackathon
+
+Led a 5-member team to build an end-to-end AI-assisted recruitment platform featuring resume plagiarism detection (TF-IDF + cosine similarity), adaptive AI interviews, career path prediction, and employer dashboards with automated candidate scoring.
+
+`Next.js` `Flask` `Python` `NLP`
+
+---
+
+### [EV Charging Demand Prediction](https://github.com/Ayushi-Mitra/AICTE-EV-Charging-Demand-Prediction-Submission) — *AICTE & NASSCOM*
+
+Regression model (Random Forest) to predict EV charging demand from 3 years of real-world data. Full ML pipeline: EDA, feature engineering, and model evaluation to optimize infrastructure placement decisions.
+
+`Random Forest` `EDA` `Regression` `Feature Engineering`
+
+---
+
+### [Predictive Maintenance Classifier](https://github.com/Ayushi-Mitra/IBM-Skillsbuild-Final-Submission) — *IBM SkillsBuild*
+
+Multiclass failure-type classifier on 10,000 industrial sensor records using IBM Watson Studio AutoAI. The Batched Tree Ensemble (Snap Random Forest) ranked #1 with 99.5% cross-validated accuracy across 5 failure modes.
+
+`IBM Watson Studio` `AutoAI` `Random Forest` `Multi-class Classification`
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![Ayushi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayushi-Mitra&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c83fd&icon_color=7c83fd&text_color=c9d1d9)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushi-Mitra&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c83fd&text_color=c9d1d9)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ayushi-Mitra&theme=tokyonight&hide_border=true&background=0d1117&ring=7c83fd&fire=6c72cb&currStreakLabel=7c83fd)
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile views](https://komarev.com/ghpvc/?username=Ayushi-Mitra&color=7c83fd&style=flat-square)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=80&section=footer" />
+
+</div>
