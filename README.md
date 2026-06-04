@@ -98,7 +98,7 @@ Multiclass failure-type classifier on 10,000 industrial sensor records using IBM
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushi-Mitra&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c83fd&text_color=c9d1d9)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ayushi-Mitra&theme=github-dark-blue)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ayushi-Mitra&theme=github-dark-blue&hide_border=true&background=0D1117&ring=0F1278&fire=0C54D4&currStreakLabel=0F1278)
 
 </div>
 
